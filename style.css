@@ -1,0 +1,20 @@
+.bg-🌵{
+  background-image: url(https://images.unsplash.com/photo-1463936575829-25148e1db1b8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2117&q=80);
+}
+.bg-🎱{
+  background-image: url(https://images.unsplash.com/photo-1558971090-35532d9122ba?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80);
+}
+.bg-📚{
+  background-image: url(https://images.unsplash.com/photo-1585779034823-7e9ac8faec70?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80);
+}
+.bg-⛱{
+  background-image: url(https://images.unsplash.com/photo-1519046904884-53103b34b206?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80);
+}
+.bg-location{
+  min-height: 27vh;
+  background-size: cover;
+  background-position: center;
+  border: 4px solid black;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px black;
+}
